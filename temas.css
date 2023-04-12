@@ -22,7 +22,7 @@
 .Sociales{
     width: 90px;
     height: 98px;
-    background-color: rgb(161, 9, 175);
+    background-color: rgb(199, 107, 207);
     margin: 2px;
 }
 
@@ -36,19 +36,19 @@
 .Matematicas{
     width: 90px;
     height: 98px;
-    background-color: rgb(14, 26, 41);
+    background-color: rgb(202, 12, 161);
     margin: 2px;
 }
 .Biologia{
     width: 90px;
     height: 98px;
-    background-color: rgb(14, 26, 41);
+    background-color: rgb(113, 192, 146);
     margin: 2px;
 }
 .Tecnologia{
     width: 90px;
     height: 98px;
-    background-color: rgb(14, 26, 41);
+    background-color: rgb(120, 184, 221);
     margin: 2px;
 }
 
