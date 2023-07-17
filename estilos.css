@@ -63,3 +63,53 @@
      
     
     }
+
+    .Contenido{
+
+        height: 230px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        .Imagentecno{
+        
+         
+        
+        background-repeat: no-repeat;
+        
+        float:right;
+        
+        height: 200px;
+        
+        width: 300px;
+        
+        margin-left: 5px;
+        
+        margin-right:5px;
+        
+        background-image: url("Fantasía\ mariposa.jpg");
+        
+        }
+        
+        
+        
+        .Textotecno{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 30px;
+        
+        
+        
+        }
