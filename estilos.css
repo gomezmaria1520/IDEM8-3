@@ -17,7 +17,14 @@
     background-size: cover;
     
     }
+    .Fondotecno{
     
+        background-image: url("Barco.jpg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
     
     
     .img{
