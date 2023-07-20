@@ -19,7 +19,7 @@
     }
     .Fondotecno{
     
-        background-image: url("Barco.jpg");
+        background-image: url("email.png");
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -95,7 +95,7 @@
         
         float:right;
         
-        height: 200px;
+        height: 355px;
         
         width: 300px;
         
@@ -103,7 +103,7 @@
         
         margin-right:5px;
         
-        background-image: url("Fantasía\ mariposa.jpg");
+        background-image: url("laptop.png");
         
         }
 
@@ -113,7 +113,7 @@
         
         text-align: justify;
         
-        color: azure;
+        color: rgb(255, 255, 255)
         
         font-size: 30px;
         
