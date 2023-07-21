@@ -50,42 +50,38 @@
     }
     
     .contenedor{
-    
-     
-    
     height: 230px;
-    
-     
-    
-    }
-    
+        
+         
+        
+        }
+
     .texto{
     
-    font-size: 40px;
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: brown;
+        
+         
+        
+        }
     
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
-
     .Contenido{
 
-        height: 230px;
+        height: 333px;
         
         width: 100%;
         
         position: absolute;
         
-        top: 410px;
+        top: 480px;
         
          
         
         }
-        
-         
+     
         
         .Imagentecno{
         
@@ -95,9 +91,9 @@
         
         float:right;
         
-        height: 355px;
+        height: 300px;
         
-        width: 300px;
+        width: 260px;
         
         margin-left: 5px;
         
@@ -106,14 +102,14 @@
         background-image: url("laptop.png");
         
         }
-
+        
         
         
         .Textotecno{
         
         text-align: justify;
         
-        color: rgb(241, 241, 241)
+        color: azure;
         
         font-size: 30px;
         
@@ -121,5 +117,5 @@
         
         }
 
-        
-        
+
+
