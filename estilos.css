@@ -19,7 +19,7 @@
     }
     .Fondotecno{
     
-        background-image: url("email.png");
+        background-image: url("Negro.jpeg");
         
         background-repeat: no-repeat;
         background-size: cover;
@@ -99,7 +99,7 @@
         
         margin-right:5px;
         
-        background-image: url("laptop.png");
+        background-image: url("Foco.jpeg");
         
         }
         
@@ -116,6 +116,128 @@
         
         
         }
+
+
+        *{
+
+            padding: 0px;
+            
+            margin: 0px;
+            
+            }
+            
+            
+            
+            
+            body{
+            
+            background-image: url("Negro.jpeg");
+            
+            background-repeat: no-repeat;
+            
+            }
+
+    
+        .Fondosocial{
+        
+            background-image: url("Humana.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
+            
+            
+            
+            .img{
+            
+            position: relative;
+            
+             
+            
+            width: 400px;
+            
+            height: 290px;
+            
+            border-radius: 10px;
+            
+            background-repeat: no-repeat;
+            
+             
+            
+            left: 200px;
+            
+            background-image: url("medellin.jpeg");
+            
+            }
+            
+            .contenedor{
+            
+             
+            
+            height: 230px;
+            
+             
+            
+            }
+            
+            .texto{
+            
+            font-size: 40px;
+            
+            text-align: justify;
+            
+            color: brown;
+            
+             
+            
+            }
+
+            .Contenido{
+
+                height: 333px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 480px;
+                
+                 
+                
+                }
+
+            .Imagensocial{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:right;
+                
+                height: 300px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("Humana.jpg");
+                
+                }
+                .Textosocial{
+        
+                    text-align: justify;
+                    
+                    color: azure;
+                    
+                    font-size: 30px;
+                    
+                    
+                    
+                    }
+                
 
 
 
