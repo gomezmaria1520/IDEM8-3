@@ -11,13 +11,20 @@
     
     body{
     
-    background-image: url("moon.jpg");
+    background-image: url("luna.jpg");
     
     background-repeat: no-repeat;
     background-size: cover;
     
     }
+    .Fondotecno{
     
+        background-image: url("Negro.jpeg");
+        
+        background-repeat: no-repeat;
+        background-size: cover;
+        
+        }
     
     
     .img{
@@ -43,42 +50,38 @@
     }
     
     .contenedor{
-    
-     
-    
     height: 230px;
-    
-     
-    
-    }
-    
+        
+         
+        
+        }
+
     .texto{
     
-    font-size: 40px;
+        font-size: 40px;
+        
+        text-align: justify;
+        
+        color: brown;
+        
+         
+        
+        }
     
-    text-align: justify;
-    
-    color: brown;
-    
-     
-    
-    }
-
     .Contenido{
 
-        height: 230px;
+        height: 333px;
         
         width: 100%;
         
         position: absolute;
         
-        top: 410px;
+        top: 480px;
         
          
         
         }
-        
-         
+     
         
         .Imagentecno{
         
@@ -88,18 +91,18 @@
         
         float:right;
         
-        height: 200px;
+        height: 300px;
         
-        width: 300px;
+        width: 260px;
         
         margin-left: 5px;
         
         margin-right:5px;
         
-        background-image: url("Elefante8-3jpg.jpg");
+        background-image: url("Foco.jpeg");
         
         }
-
+        
         
         
         .Textotecno{
@@ -113,3 +116,226 @@
         
         
         }
+
+                        
+
+    
+    
+        .Fondosocial{
+        
+            background-image: url("sociaim.jpg");
+            
+            background-repeat: no-repeat;
+            background-size: cover;
+            
+            }
+            
+            
+            
+            .img{
+            
+            position: relative;
+            
+             
+            
+            width: 400px;
+            
+            height: 290px;
+            
+            border-radius: 10px;
+            
+            background-repeat: no-repeat;
+        
+            
+             
+            
+            left: 300px;
+            
+            background-image: url("sociaim.jpg");
+            
+            }
+            
+            .contenedor{
+            
+             
+            
+            height: 230px;
+            
+             
+            
+            }
+            
+            .texto{
+            
+            font-size: 40px;
+            
+            text-align: justify;
+            
+            color: brown;
+            
+                   
+            }
+
+            .Contenido{
+
+                height: 333px;
+                
+                width: 100%;
+                
+                position: absolute;
+                
+                top: 480px;
+                
+                 
+                
+                }
+
+            .Imagensocial{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:right;
+                
+                height: 800px;
+                
+                width: 460px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("Humana.jpeg");
+                float: left;
+                
+                }
+                .Textosocial{
+        
+                    text-align: justify;
+                    
+                    color: rgb(255, 255, 255);
+                    
+                    font-size: 3px;
+                    
+                    
+                    
+                    }
+
+
+
+                       .Contenido{
+
+                       height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 410px;
+                        
+                         
+                        
+                        }
+                        
+
+                        .Fondomate{
+    
+                            background-image: url("m2.jpg");
+                            
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            
+                            }
+                        
+                            .img{
+                            
+                                position: relative;
+                                
+                                 
+                                
+                                width: 190px;
+                                
+                                height: 190px;
+                                
+                                border-radius: 10px;
+                                
+                                background-repeat: no-repeat;
+                                
+                                 
+                                
+                                left: 180px;
+                                
+                                background-image: url("mateim.jpg");
+                                
+                                }
+                                .contenedor{
+                                    height: 230px;
+                                        
+                                         
+                                        
+                                        }
+                                        .texto{
+                            
+                                            font-size: 40px;
+                                            
+                                            text-align: justify;
+                                            
+                                            color: brown;
+                                            
+                                             
+                     
+                                            }
+                                        
+                                
+                                
+                        .Contenido{
+                        
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 410px;
+                        
+                         
+                        
+                        }
+                        
+                         
+                        
+                        .Imagenmate{
+                        
+                         
+                        
+                        background-repeat: no-repeat;
+                        
+                        float:left;
+                        
+                        height: 200px;
+                        
+                        width: 260px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("mateim.jpg");
+                        
+                        }
+                        
+                        
+                        
+                        .Textomate{
+                        
+                        text-align: justify;
+                        
+                        color: azure;
+                        
+                        font-size: 20px;
+                        
+                        
+                        
+                        }
+       
