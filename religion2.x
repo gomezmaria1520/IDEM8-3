@@ -1,0 +1,158 @@
+ 
+    <br> <br>
+    50 preguntas sobre el hinduismo 
+    <br><br>
+    1¿Qué investiga el hinduismo?
+    La existencia de Dios brahman, el karma, la reencarnación y liberación.
+    <br><br>
+    2¿Qué busca el hinduismo?
+    Prescribir obligaciones morales tales como abstenerse de hacerle daño a los seres vivientes.
+    <br><br>
+    3¿Quién fundo el hinduismo?
+    El hinduismo no tiene fundador, es una unidad inespecífica.
+    <br><br>
+    4¿Cuál es la deidad máxima del hinduismo?
+    Según los shivaístas, el Dios supremo es Shiva. Mientras los vishnuistas el Dios supremo el vishnu.
+    <br><br>
+    5¿Qué tipo de Dios tiene el hinduismo?
+    El mas poderoso es Brahmá.
+    <br><br>
+    6¿Nombre y numero de seguidores?
+    Seguidores (1140 millones), de hinduistas.
+    <br><br>
+    7.Texto sagrado del hinduismo 
+    Los vedas, el romaiana, el Bhagavad-guita, el majabhárata, los puranos.
+    <br><br>
+    8.Lengua litúrgica del hinduismo 
+    Sánscristo. 
+    <br><br>
+    9.De donde es el hinduismo 
+    De la india.
+    <br><br>
+    10¿Lugares donde existe esta religión?
+    Por mayoría India, Nepal, Indonesia, Isla Mauricio y Tailandia.
+    <br><br>
+    11¿País con mayor cantidad de hindúes?
+     India.
+     <br><br>
+    12¿Ramas del hinduismo?
+    El Vaishnavismo o la adoración del dios Vishnú.
+    <br><br>
+    13¿Cómo esta formado el clero del hinduismo?
+    Activo cooperativo, gurús, swamis, brahmanes.
+    <br><br>
+    14¿Religiones relacionadas con el hinduismo?
+    budismo, jainismo, sijismo.
+    <br><br>
+    
+    15¿Por qué se llama el hinduismo una religión vedica?
+    Prácticas rituales y espirituales originarias del subcontinente Indio. En su mayor parte proviene del brahmanismo, la antigua religión India, también conocida como religión védica.
+    <br><br>    
+    16¿Qué es el hinduismo según el documento?
+    Se basa fundamentalmente la existencia del Dios Brahman, el karma, la reencarnación y la liberación.
+    <br><br>
+    
+    17¿Qué es el sanatana en el hinduismo?
+    Utilizado por los hindúes Se refiere a la verdad "eterna" y las enseñanzas del hinduismo. 
+    <br><br>
+    18¿Qué traduce la palabra hindú?
+    Natural de la India, perteneciente al hinduismo o relativo a ese país de Asia.
+    <br><br>
+    19¿Cómo se le llama al clero en el hinduismo?
+    Dios, guía.
+    <br><br>
+    20¿Que es el brahman en el hinduismo?
+    Dios creador del universo y miembro de la Trimurti, la tríada conformada por Brahma, Vishnú y Shiva.
+    <br><br>
+    21¿Qué creen los hindúes sobre la verdad? 
+    La verdad es eterna.
+    <br><br>
+    22¿Qué es la reencarnación?
+     Renacimiento del alma.
+     <br><br>
+    23¿cuál es el propósito de la reencarnación?
+    Creencia consistente en que la esencia individual de las personas (alma o espíritu) empieza una nueva vida en un cuerpo o forma física diferente después de la muerte biológica.
+    <br><br>
+    24¿Qué es moksha? 
+    Liberación espiritual.
+    <br><br>
+    25¿Cómo logran los hindúes el moksha?
+    A través de prácticas ascéticas que deshacen los últimos residuos del karma.
+    <br><br>
+    26¿Qué es el dharma?
+    Significados en las religiones indias.
+    <br><br>
+    27¿ ¿Qué son las Vedas?
+    Himnos, cantos,rituales.
+    <br><br>
+    28¿Cuáles son las marcas en la frente de los hindúes? 
+    Shaivites adornar su frente con la ceniza Santo el que tiene el poder medicinal y el significado espiritual.
+    <br><br> 
+    29¿Cuales son las creencias esenciales del Hinduismo?
+    Todos los caminos conducen a la salvación, Todo es dios y dios es Todo.
+    <br><br>
+    30¿En el hinduismo, ¿cuál es el propósito de la reencarnación?
+    Otra oportunidad para lograr moksha.
+    <br><br>      
+    31¿Cómo logran los hindúes el moksha?                                                                                                                                      31¿Cómo logran los hindúes el moksha? 
+    Una vida correcta (Vivir bien)
+    <br><br>
+    32¿Dónde se desarrolló por primera vez el hinduismo?
+    En la India.
+    <br><br>
+    33¿Qué creen los hindúes sobre la verdad?
+    La verdad es eterna.
+    <br><br>
+    34¿Qué es el dharma?
+    El camino en debe seguir para encontrar la verdad.
+    <br><br>
+    35¿Qué son las Vedas?
+    Escrituras sagradas hindúes.
+    <br><br>
+    36¿Cómo afecta el karma la vida de un hindú?
+    El buen karma puede darte un dharma fácil la próxima vez.
+    <br><br>
+    37¿Cuál es el río más sagrado para los hindúes?
+    Rio ganges.
+    <br><br>
+    38¿Cuál es el sistema de clases sociales que prevalece en la India hindú?
+    Sistemas de Castas.
+    <br><br>
+    39¿Qué es la reencarnación?
+    Renacimiento del alma.
+    <br><br>
+    40¿Cuales son las 4 castas principales?
+    Brahmins, Kshetriyas, Vaisyas y Sudras. De estas 4 se derivan las 6400 castas.
+    <br><br>
+    41¿Cómo afecta el karma la vida de un hindú?
+    El buen karma puede darte un dharma fácil la próxima vez.
+    <br><br>
+    42¿Cuales son las creencias esenciales del Hinduismo?
+    “Todo es dios y dios es Todo”, “Todos los caminos conducen a la salvación”. “Realizar a dios”.
+    <br><br>
+    
+    43¿Cuantos dioses hay en el Hinduismo?
+    332 Millones de dioses.
+    <br><br>
+    44¿Como se llama la Biblia de los Hindúes?
+    Bhagavad Gita.
+    <br><br>
+    45¿Cómo está organizada la sociedad en el hinduismo?
+    El sistema de castas divide a los hindúes en cuatro categorías principales: brahmanes, kshatriyas, vaishyas y shudras.
+     <br><br>
+    46¿Cómo funcionan las castas?
+    Gobierna la interacción entre los miembros de una sociedad, especialmente desde las diferentes posiciones en la jerarquía.
+    <br><br>
+    47¿Cómo es el hinduismo una forma de vida?
+    Los hindúes se esfuerzan por lograr el dharma, que es un código de vida que enfatiza la buena conducta y la moralidad.
+    <br><br>
+    48¿El hinduismo tiene una comunidad?
+    Los hindúes definen su comunidad como “aquellos que creen en los Vedas” (ver Veda) o “aquellos que siguen el camino (dharma) de las cuatro clases (varnas) y etapas de la vida (ashramas)”.
+     <br><br>
+    
+    49¿Cuáles son las creencias principales del hinduismo?
+    Dharma. Ética y obligaciones, Artha. Prosperidad y trabajo, Kama. Deseos y pasiones, Moksha. Liberación, libertad y salvación.
+    <br><br>
+    50¿Cómo viven las familias en el hinduismo?
+    tras el matrimonio el hijo continúa viviendo en casa de sus padres y su esposa viene a vivir con la familia del marido. 
+    <br><br>
