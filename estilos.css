@@ -668,7 +668,7 @@ font-size: 30px;
 
     .imageninfografia{
     
-        position: center;
+        position: justify;
         
          
         
@@ -688,5 +688,35 @@ font-size: 30px;
         
         }
 
+        
+        .Imageninfografia2{
 
+ 
 
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 590px;
+            
+            width: 590px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("Infografia2.png");
+            
+            }
+            
+            .Texto3ingles{
+
+                text-align: justify;
+                
+                color: rgb(0, 0, 0);
+                
+                font-size: 25px;
+                
+                
+                
+                }
