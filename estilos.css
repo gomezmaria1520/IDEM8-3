@@ -509,7 +509,7 @@ width: 100%;
 
 position: absolute;
 
-top: 410px;
+top: 325px;
 
  
 
@@ -666,23 +666,21 @@ font-size: 30px;
     
     }
 
-    .imageninfografia{
-    
-        position: justify;
+    .Imageninfografia{
+
+ 
+
+        background-repeat: no-repeat;
         
-         
-        
-        width: 500px;
+        float:left;
         
         height: 590px;
         
-        border-radius: 10px;
+        width: 590px;
         
-        background-repeat: no-repeat;
+        margin-left: 5px;
         
-         
-        
-        left: 180px;
+        margin-right:5px;
         
         background-image: url("Infografia.png");
         
@@ -695,13 +693,13 @@ font-size: 30px;
 
             background-repeat: no-repeat;
             
-            float:left;
+            float:none;
             
             height: 590px;
             
             width: 590px;
             
-            margin-left: 5px;
+            margin-left: 349px;
             
             margin-right:5px;
             
@@ -720,3 +718,41 @@ font-size: 30px;
                 
                 
                 }
+
+                .Textotecno3{
+    
+                    font-size: 25px;
+                    
+                    text-align: justify;
+                    
+                    color: rgb(0, 0, 0);
+                }
+
+                .Textomate3{
+    
+                    font-size: 25px;
+                    
+                    text-align: justify;
+                    
+                    color: rgb(0, 0, 0);
+                }
+
+                .Imagenmate3{
+
+ 
+
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("Mateimagen3.avif");
+                    
+                    }
