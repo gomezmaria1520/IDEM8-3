@@ -756,3 +756,186 @@ font-size: 30px;
                     background-image: url("Mateimagen3.avif");
                     
                     }
+
+                    .imagensaludo{
+
+ 
+
+                        background-repeat: no-repeat;
+                        
+                        float:right;
+                        
+                        height: 180px;
+                        
+                        width: 361px;
+                        
+                        margin-left: 5px;
+                        
+                        margin-right:5px;
+                        
+                        background-image: url("SALUDO2.png");
+                        
+                        }
+
+                        .imagenniños2{
+
+ 
+
+                            background-repeat: no-repeat;
+                            
+                            float:left;
+                            
+                            height: 355px;
+                            
+                            width: 361px;
+                            
+                            margin-left: 5px;
+                            
+                            margin-right:5px;
+                            
+                            background-image: url("Niños2.png");
+                            
+                            }
+
+                            .imagenprofesora{
+
+ 
+
+                                background-repeat: no-repeat;
+                                
+                                float:left;
+                                
+                                height: 204px;
+                                
+                                width: 270px;
+                                
+                                margin-left: 5px;
+                                
+                                margin-right:5px;
+                                
+                                background-image: url("Profesora.png");
+                                
+                                }
+
+                                .imagenviolencia{
+
+ 
+
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 325px;
+                                    
+                                    width: 270px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("Noalaviolencia.png");
+                                    
+                                    } 
+
+                                    .imagencolores{
+
+ 
+
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 325px;
+                                        
+                                        width: 270px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("colorescirculo.png");
+                                        
+                                        } 
+
+                                        .imagenhello{
+
+ 
+
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 188px;
+                                            
+                                            width: 270px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("hello.png");
+                                            
+                                            } 
+
+                                            .imagenbullying{
+
+ 
+
+                                                background-repeat: no-repeat;
+                                                
+                                                float:left;
+                                                
+                                                height: 188px;
+                                                
+                                                width: 270px;
+                                                
+                                                margin-left: 5px;
+                                                
+                                                margin-right:5px;
+                                                
+                                                background-image: url("bullying.png");
+                                                
+                                                } 
+
+                                                .imagentelevision{
+
+ 
+
+                                                    background-repeat: no-repeat;
+                                                    
+                                                    float:left;
+                                                    
+                                                    height: 188px;
+                                                    
+                                                    width: 270px;
+                                                    
+                                                    margin-left: 5px;
+                                                    
+                                                    margin-right:5px;
+                                                    
+                                                    background-image: url("television.png");
+                                                    
+                                                    } 
+
+                                                    .imagengoodmorning{
+
+ 
+
+                                                        background-repeat: no-repeat;
+                                                        
+                                                        float:left;
+                                                        
+                                                        height: 201px;
+                                                        
+                                                        width: 1292px;
+                                                        
+                                                        margin-left: 5px;
+                                                        
+                                                        margin-right:5px;
+                                                        
+                                                        background-image: url("goodmorning.png");
+                                                        
+                                                        } 
+        
+    
+
